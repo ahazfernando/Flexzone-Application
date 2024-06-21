@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Flexzone</string>
+    <string name="username">Username</string><!--Also Used in Sign Up-->
+    <string name="password">Password</string><!--Also Used in Sign Up-->
+    <string name="login">Login</string>
+    <string name="user_login_pg">Username/Email</string>
+    <string name="register_link">New customer? Register here</string>
+
+    <!--Sign Up Screen-->
+    <string name="sign_up">Make your account</string>
+    <string name="loginuser_email">Email</string>
+    <string name="repassword">Confirm Password</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="join">Join Us</string>
+    <string name="join_description">Get the latest and the best with occassional discounts</string>
+
+    <!--Home Screen-->
+    <string name="greeting">Welcome</string>
+    <string name="all">All</string>
+    <string name="protein">Protein</string>
+    <string name="creatine">Creatine</string>
+    <string name="cereal">Cereal</string>
+    <string name="product_heading">Our Products</string>
+
+    <!--Shopping Cart Screen-->
+    <string name="checkout">Proceed to Checkout</string>
+    <string name="cart_heading">My Cart</string>
+    <string name="cart_caption">Find your items here!! Lookout for a special discount</string>
+
+
+    <string name="product_para">We sell the most genuine supplemnts in Sri Lanka</string>
+
+    <!--User Profile Screen-->
+    <string name="user_name">Ahaz Fernando</string>
+    <string name="user_add">User ID: 822466</string>
+    <string name="user_email">ahazfernando@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="user_address">Shopping Address</string>
+    <string name="user_orders">Order History</string>
+    <string name="user_payment">Payment Methods</string>
+    <string name="user_settings">Settings</string>
+
+    <!--All Categories Screen-->
+    <string name="shop">Shop Now</string>
+    <string name="shop_description">The Most Genuine Supplements in Sri Lanka</string>
+
+    <!--Product Information Page-->
+    <string name="Product_Name">Optimum Nutrition 2.2LBS</string>
+    <string name="product_description">Creatine monohydrate has been extensively studied and shown to help support muscle size, strength and recovery when used consistently over time in conjunction with a healthy, balanced diet and regular weight training</string>
+    <string name="product_price">LKR 8,500</string>
+    <string name="product_quantity">Available Quantity: 46</string>
+    <string name="cart_text">Add to Cart</string>
+    <string name="cart_purchase">Purchase</string>
+
+    <string name="user_logout">Log Out</string>
+
+</resources>
